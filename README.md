@@ -32,11 +32,19 @@ Welcome to Weather Forecast! This application provides real-time weather updates
 3. Install dependencies: `npm install`
 4. Start the application: `npm start`
 
+## Screenshots
+
+![App Screenshot](/path/to/image.png)
+
+## Live Demo
+
+For a live demo, visit Weather App Demo. ......
+
 ## Contributing
 
 Contributions to Weather Forecast are welcome! If you have suggestions for new features, improvements, or bug fixes, please submit a pull request. Be sure to follow the contribution guidelines and code of conduct.
 
-### Collaborators
+### Authors
 
 - [Chiamaka Oforkaja](https://github.com/raytchellee)
 - [Ugonma Nkwocha](https://github.com/caramelInvestor)
