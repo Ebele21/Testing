@@ -38,7 +38,7 @@ Welcome to Weather Forecast! This application provides real-time weather updates
 
 ## Live Demo
 
-For a live demo, visit Weather App Demo. ......
+For a live demo, visit Weather Forecast Demo. ......
 
 ## Authors
 
