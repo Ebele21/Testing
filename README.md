@@ -48,18 +48,18 @@ For a live demo, visit Weather Forecast Demo. ......
   - Styled user interfaces using CSS and styled-components.
 
  - [Ebelechukwu Muoka](https://github.com/Ebele21) - *Frontend Developer*
-  - Designed wireframes and mockups for the user interface.
-  - Created responsive designs for different screen sizes.
-  - Collaborated with developers to ensure designs were implemented accurately.
+   - Designed wireframes and mockups for the user interface.
+   - Created responsive designs for different screen sizes.
+   - Collaborated with developers to ensure designs were implemented accurately.
    
 - [Ugonma Nkwocha](https://github.com/caramelInvestor) - *Lead Backend Developer*
    - Responsible for leading the backend development team.
-  - Designed and developed RESTful APIs.
+   - Designed and developed RESTful APIs.
     
 - [Afua Adjei-Arthur](https://github.com/afuawonders)  - *Backend Developer*
--  Developed API endpoints.
-- Integrated third-party services for additional functionality.
- -- Deployed and managed backend services.
+  -  Developed API endpoints.
+  - Integrated third-party services for additional functionality.
+  - Deployed and managed backend services.
    
 ## Deploy on Vercel
 
