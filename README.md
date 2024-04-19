@@ -34,7 +34,7 @@ Welcome to Weather Forecast! This application provides real-time weather updates
 
 ### Deployment
 - **Integration with Weather Data APIs**: Integrated with weather data APIs such as OpenWeatherMap to fetch real-time weather information. This integration enhances the application's functionality by providing accurate weather forecasts and data.
-- **Render**: Utilized as the hosting platform for deploying the application. Render offers seamless deployment and scaling of web applications, providing reliability and performance.
+- **Vercel**: Utilized as the hosting platform for deploying the application. Vercel offers seamless deployment and scaling of web applications, providing reliability and performance.
 
 
 ## Installation
