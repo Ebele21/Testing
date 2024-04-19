@@ -54,7 +54,7 @@ For a live demo, visit Weather Forecast Demo. ......
    
 - [Ugonma Nkwocha](https://github.com/caramelInvestor) - *Lead Backend Developer*
    - Responsible for leading the backend development team.
-   - Designed and developed RESTful APIs.
+   - Designed and developed RESTful APIs using Node.js and Express.
     
 - [Afua Adjei-Arthur](https://github.com/afuawonders)  - *Backend Developer*
   -  Developed API endpoints.
