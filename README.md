@@ -20,10 +20,22 @@ Welcome to Weather Forecast! This application provides real-time weather updates
 
 ## Technologies Used
 
-- **APIs**: WeatherApp utilizes weather APIs to fetch real-time weather data and forecasts.
-- **Frontend**: Built using HTML, CSS, and JavaScript for a responsive and user-friendly interface.
-- **Backend**: The application is supported by a backend server for handling data requests and processing.
-- **Data Storage**: Weather data may be stored locally or fetched dynamically from the API, depending on user preferences.
+### Frontend
+- **Next.js**: Utilized for building fast and scalable React applications. Next.js provides server-side rendering, automatic code splitting, and routing out of the box.
+- **Recoil**: Employed for managing application state in React components. Recoil offers a simple and efficient way to handle complex state requirements.
+
+### Backend
+- **Node.js**: Used as the runtime environment for server-side JavaScript code execution. Node.js enables building scalable and high-performance backend applications.
+- **Express.js**: Employed as the web application framework for Node.js. Express.js simplifies the process of building robust APIs and handling HTTP requests.
+
+### Database
+- **MongoDB**: Chosen as the NoSQL database solution for its flexibility and scalability. MongoDB allows for storing and querying structured and unstructured data efficiently.
+- **PostgreSQL**: Utilized as the relational database management system (RDBMS) for structured data storage. PostgreSQL offers ACID compliance and supports complex queries and transactions.
+
+### Deployment
+- **Integration with Weather Data APIs**: Integrated with weather data APIs such as OpenWeatherMap to fetch real-time weather information. This integration enhances the application's functionality by providing accurate weather forecasts and data.
+- **Render**: Utilized as the hosting platform for deploying the application. Render offers seamless deployment and scaling of web applications, providing reliability and performance.
+
 
 ## Installation
 
@@ -55,6 +67,7 @@ For a live demo, visit Weather Forecast Demo. ......
 - [Ugonma Nkwocha](https://github.com/caramelInvestor) - *Lead Backend Developer*
    - Responsible for leading the backend development team.
    - Designed and developed RESTful APIs using Node.js and Express.
+   - Implemented database schemas and models using MongoDB.
     
 - [Afua Adjei-Arthur](https://github.com/afuawonders)  - *Backend Developer*
   -  Developed API endpoints.
