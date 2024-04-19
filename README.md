@@ -49,7 +49,7 @@ For a live demo, visit Weather Forecast Demo. ......
 
  - [Ebelechukwu Muoka](https://github.com/Ebele21) - *Frontend Developer*
    - Designed wireframes and mockups for the user interface.
-   - Created responsive designs for different screen sizes.
+   - Created responsive designs.
    - Collaborated with developers to ensure designs were implemented accurately.
    
 - [Ugonma Nkwocha](https://github.com/caramelInvestor) - *Lead Backend Developer*
