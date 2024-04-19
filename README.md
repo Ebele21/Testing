@@ -41,11 +41,31 @@ Welcome to Weather Forecast! This application provides real-time weather updates
 For a live demo, visit Weather Forecast Demo. ......
 
 ## Authors
+### Frontend Team
+- [Chiamaka Oforkaja](https://github.com/raytchellee) -*Lead Frontend Developer*
+  - Responsible for leading the frontend development team.
+  - Implemented React components.
+  - Styled user interfaces using CSS and styled-components.
 
-- [Chiamaka Oforkaja](https://github.com/raytchellee)
-- [Ugonma Nkwocha](https://github.com/caramelInvestor)
-- [Afua Adjei-Arthur](https://github.com/afuawonders)
-- [Ebelechukwu Muoka](https://github.com/Ebele21)
+ - [Ebelechukwu Muoka](https://github.com/Ebele21) - *Frontend Developer*
+  - Designed wireframes and mockups for the user interface.
+  - Created responsive designs for different screen sizes.
+  - Collaborated with developers to ensure designs were implemented accurately.
+   
+- [Ugonma Nkwocha](https://github.com/caramelInvestor) - *Lead Backend Developer*
+   - Responsible for leading the backend development team.
+  - Designed and developed RESTful APIs.
+    
+- [Afua Adjei-Arthur](https://github.com/afuawonders)  - *Backend Developer*
+-  Developed API endpoints.
+- Integrated third-party services for additional functionality.
+ -- Deployed and managed backend services.
+   
+## Deploy on Vercel
+
+The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+
+Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
 
 ## License
 
