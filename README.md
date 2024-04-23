@@ -46,11 +46,11 @@ Welcome to Weather Forecast! This application provides real-time weather updates
 
 ## Screenshots
 
-![App Screenshot](https://github.com/Ebele21/Testing.git/main/public/images/Screenshot1.png)
+![App Screenshot](https://github.com/Ebele21/Testing/blob/main/Public/Images/Screenshot1.png)
 
-![App Screenshot](https://github.com/Ebele21/Testing.git/main/public/images/Screenshot2.png)
+![App Screenshot](https://github.com/Ebele21/Testing/blob/main/Public/Images/Screenshot2.png)
 
-![App Screenshot](https://github.com/Ebele21/Testing.git/main/public/images/Screenshot2.png)
+![App Screenshot](https://github.com/Ebele21/Testing/blob/main/Public/Images/Screenshot3.png)
 
 ## Live Demo
 
