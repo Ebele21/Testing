@@ -2,8 +2,23 @@
 
 Welcome to Weather Forecast! This application provides real-time weather updates and forecasts for any location worldwide. Whether you're planning a trip, checking the weather for your daily commute, or just curious about conditions elsewhere, Weather Forecast has you covered.
 
-## Features
+## Table of Contents
+1. [Features](#features)
+2. [How to Use](#how-to-use)
+3. [Technologies Used](#technologies-used)
+    - [Frontend](#frontend)
+    - [Backend](#backend)
+    - [Database](#database)
+    - [Deployment](#deployment)
+4. [Installation](#installation)
+5. [Screenshots](#screenshots)
+6. [Live Demo](#live-demo)
+7. [Authors](#authors)
+8. [Deploy on Vercel](#deploy-on-vercel)
+9. [License](#license)
+10. [Contact](#contact)
 
+## Features
 - **Current Weather**: Get up-to-date information on the current weather conditions, including temperature, humidity, wind speed, and more, for any location you choose.
 - **Forecast**: Plan ahead with a detailed forecast for the next few days. WeatherApp provides hourly and daily forecasts, so you know what to expect throughout the week.
 - **Location-based**: Simply enter the name or coordinates of any location, and WeatherApp will retrieve accurate weather data for that area.
@@ -11,7 +26,6 @@ Welcome to Weather Forecast! This application provides real-time weather updates
 - **Customizable Settings**: Tailor the app to your preferences by adjusting settings such as temperature units (Celsius, Fahrenheit), time format, and more.
 
 ## How to Use
-
 1. **Search for Location**: Enter the name or coordinates of the location you want to check the weather for in the search bar.
 2. **View Current Weather**: Once the location is selected, WeatherApp will display the current weather conditions for that area.
 3. **Check Forecast**: Swipe or navigate to the forecast section to view the weather forecast for the next few days.
@@ -19,7 +33,6 @@ Welcome to Weather Forecast! This application provides real-time weather updates
 5. **Stay Informed**: Stay informed about weather changes in your area or any location of interest by refreshing the data or setting up notifications.
 
 ## Technologies Used
-
 ### Frontend
 - **Next.js**: Utilized for building fast and scalable React applications. Next.js provides server-side rendering, automatic code splitting, and routing out of the box.
 - **Recoil**: Employed for managing application state in React components. Recoil offers a simple and efficient way to handle complex state requirements.
@@ -36,16 +49,13 @@ Welcome to Weather Forecast! This application provides real-time weather updates
 - **Integration with Weather Data APIs**: Integrated with weather data APIs such as OpenWeatherMap to fetch real-time weather information. This integration enhances the application's functionality by providing accurate weather forecasts and data.
 - **Vercel**: Utilized as the hosting platform for deploying the application. Vercel offers seamless deployment and scaling of web applications, providing reliability and performance.
 
-
 ## Installation
-
 1. Clone the repository: `git clone https://github.com/Raytchellee/hi-weather.git
 2. Navigate to the project directory: `cd hi-weather`
 3. Install dependencies: `npm install`
 4. Start the application: `npm start`
 
 ## Screenshots
-
 ![App Screenshot](https://github.com/Ebele21/Testing/blob/main/Public/Images/Screenshot1.png)
 
 ![App Screenshot](https://github.com/Ebele21/Testing/blob/main/Public/Images/Screenshot2.png)
@@ -53,7 +63,6 @@ Welcome to Weather Forecast! This application provides real-time weather updates
 ![App Screenshot](https://github.com/Ebele21/Testing/blob/main/Public/Images/Screenshot3.png)
 
 ## Live Demo
-
 For a live demo, visit Weather Forecast Demo. 
 
 https://hi-weather-five.vercel.app/ 
@@ -70,6 +79,7 @@ https://hi-weather-five.vercel.app/
    - Created responsive designs.
    - Collaborated with developers to ensure designs were implemented accurately.
    
+### Backend Team
 - [Ugonma Nkwocha](https://github.com/caramelInvestor) - *Lead Backend Developer*
    - Responsible for leading the backend development team.
    - Designed and developed RESTful APIs using Node.js and Express.
@@ -79,15 +89,16 @@ https://hi-weather-five.vercel.app/
   -  Developed API endpoints.
   - Integrated third-party services for additional functionality.
   - Deployed and managed backend services.
-   
-## Deploy on Vercel
 
+## Deploy on Vercel
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
 
-## Contact
+## License
+This project is licensed under the [MIT License](LICENSE).
 
+## Contact
 Have questions or feedback? Open an issue on GitHub.
 
-Thank you for using Weather Forecast! 
+Thank you for using Weather Forecast!
